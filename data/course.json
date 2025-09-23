@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Climate"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ]
+  ],
+  "legacy_uid": "1e0df2cd-4344-d9cc-218c-b6e432aad235",
+  "instructors": {
+    "content": [
+      "0422faf4-7071-6d05-cb3f-1e05eeb0a55f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "aea7f521-5f80-3268-80c9-c3be83afadc1",
+    "website": "1-84j-atmospheric-chemistry-fall-2013"
+  },
+  "course_title": "Atmospheric Chemistry",
+  "course_description": "This course provides a detailed overview of the chemical transformations that control the abundances of key trace species in the Earth's atmosphere. Emphasizes the effects of human activity on air quality and climate. Topics include photochemistry, kinetics, and thermodynamics important to the chemistry of the atmosphere; stratospheric ozone depletion; oxidation chemistry of the troposphere; photochemical smog; aerosol chemistry; and sources and sinks of greenhouse gases and other climate forcers.\n",
+  "department_numbers": [
+    "1",
+    "10",
+    "12"
+  ],
+  "extra_course_numbers": "10.817J,12.807J",
+  "primary_course_number": "1.84J",
+  "course_image_thumbnail": {
+    "content": "58c8ef3b-0b54-0bca-8d3e-2ea857de2ea3",
+    "website": "1-84j-atmospheric-chemistry-fall-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Instructor Insights"
+  ],
+  "site_uid": "badeb9b1-b522-40b5-b000-59d12ee32127",
+  "site_short_id": "1.84j-fall-2013",
+  "site_url_path": "courses/1-84j-atmospheric-chemistry-fall-2013",
+  "title": "Course Metadata"
+}
