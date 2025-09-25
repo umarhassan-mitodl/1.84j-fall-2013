@@ -4,6 +4,8 @@ description: This file contains the information regarding atmospheric aqueous ch
 file: /courses/1-84j-atmospheric-chemistry-fall-2013/e39b4c25ee76b7c5a09ae0e64fbdce70_MIT1_84JF13_Lec15_aqueus.pdf
 file_size: 249178
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

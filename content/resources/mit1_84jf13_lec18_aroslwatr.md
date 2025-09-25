@@ -5,6 +5,8 @@ description: This file contains the information regarding atmospheric aerosol 2-
 file: /courses/1-84j-atmospheric-chemistry-fall-2013/1d3a23e735445ef350de664d28c998f7_MIT1_84JF13_Lec18_aroslWatr.pdf
 file_size: 432004
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

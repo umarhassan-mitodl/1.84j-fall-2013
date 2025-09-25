@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides an overview of the final project for the course
   and includes information on grading, the project proposal, the paper, and the presentation.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

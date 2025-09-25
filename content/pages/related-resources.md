@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section provides links to related resources on chemical kinetics
   and photochemistry, '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

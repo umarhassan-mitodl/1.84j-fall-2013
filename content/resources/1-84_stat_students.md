@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-84j-atmospheric-chemistry-fall-2013/bf2adfd468c3ca5b514bf6982f27ca17_1-84_stat_students.png
 file_size: 2955
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
