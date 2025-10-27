@@ -5,8 +5,6 @@ description: This file contains the information regarding atmospheric chemistry 
 file: /courses/1-84j-atmospheric-chemistry-fall-2013/12679eb5c85834fd3a157d746f815a7d_MIT1_84JF13_Lec21_clmate1.pdf
 file_size: 599217
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

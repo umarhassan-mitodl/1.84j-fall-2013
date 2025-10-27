@@ -5,8 +5,6 @@ description: This file contains the information regarding chemical kinetics 2-re
 file: /courses/1-84j-atmospheric-chemistry-fall-2013/115e512353d5deb01c0827af2152cb0f_MIT1_84JF13_Lec3_kinetics2.pdf
 file_size: 293910
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

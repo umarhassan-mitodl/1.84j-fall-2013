@@ -27,7 +27,6 @@
     "website": "1-84j-atmospheric-chemistry-fall-2013"
   },
   "course_title": "Atmospheric Chemistry",
-  "hide_download": true,
   "course_description": "This course provides a detailed overview of the chemical transformations that control the abundances of key trace species in the Earth's atmosphere. Emphasizes the effects of human activity on air quality and climate. Topics include photochemistry, kinetics, and thermodynamics important to the chemistry of the atmosphere; stratospheric ozone depletion; oxidation chemistry of the troposphere; photochemical smog; aerosol chemistry; and sources and sinks of greenhouse gases and other climate forcers.\n",
   "department_numbers": [
     "1",
@@ -40,7 +39,6 @@
     "content": "58c8ef3b-0b54-0bca-8d3e-2ea857de2ea3",
     "website": "1-84j-atmospheric-chemistry-fall-2013"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets",

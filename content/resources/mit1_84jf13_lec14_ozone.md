@@ -4,8 +4,6 @@ description: This file contains the information regarding ozone pollution.
 file: /courses/1-84j-atmospheric-chemistry-fall-2013/21a00a7bcd72ca0e910034f7e8cc9a94_MIT1_84JF13_Lec14_ozone.pdf
 file_size: 458304
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

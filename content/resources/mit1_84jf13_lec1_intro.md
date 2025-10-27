@@ -5,8 +5,6 @@ description: This file contains the information regarding introduction-atmospher
 file: /courses/1-84j-atmospheric-chemistry-fall-2013/a6ef483b88e9ee972eee39ca8c16be74_MIT1_84JF13_Lec1_intro.pdf
 file_size: 738000
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
