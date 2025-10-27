@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides a course overview and information on course
   meeting times, textbooks, and grading.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,9 +22,9 @@ Seinfeld, John H., and Spyros N. Pandis. *Atmospheric Chemistry and Physics: Fro
 
 Other useful textbooks include:
 
-Jacob, Daniel. *Introduction to Atmospheric Chemistry.* Princeton University Press, 1999. ISBN: 9780691001852. \[Preview with [Google Books](http://books.google.com/books?id=7B8EEn_sj0cC&printsec=frontcover)\]. This textbook is also [available online](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry).
+Jacob, Daniel. *Introduction to Atmospheric Chemistry.* Princeton University Press, 1999. ISBN: 9780691001852. \[Preview with {{% resource_link "a90fdf3e-49e6-48ab-8ce7-82eacddb7bf4" "Google Books" %}}\]. This textbook is also {{% resource_link "d80e7021-4a81-419c-9312-c17e4a62a87a" "available online" %}}.
 
-Finlayson-Pitts, Barbara J., and James N. Pitts. *Chemistry of the Upper and Lower Atmosphere: Theory, Experiments, and Applications*. Academic Press, 1999. ISBN: 9780122570605. \[Preview with [Google Books](http://books.google.com/books?id=mRoJUB5fxRwC&printsec=frontcover)\]
+Finlayson-Pitts, Barbara J., and James N. Pitts. *Chemistry of the Upper and Lower Atmosphere: Theory, Experiments, and Applications*. Academic Press, 1999. ISBN: 9780122570605. \[Preview with {{% resource_link "6b4b3720-7a6a-45a4-9f87-31856cd4115e" "Google Books" %}}\]
 
 ## Grading
 
